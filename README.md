@@ -54,7 +54,7 @@ Este dataset contém transações de cartões de crédito europeus realizadas em
 1. Clone o repositório:
 
 ```bash
-   git clone https://github.com/SEU_USUARIO/projeto-fraude-ml.git
+   git clone https://github.com/PadawanXXVI/projeto-fraude-ml.git
    cd projeto-fraude-ml
 ```
 
