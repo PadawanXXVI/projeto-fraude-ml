@@ -45,11 +45,47 @@ Professor Orientador: **Marcelo Carboni Gomes** 🎓
 
 Este dataset contém transações de cartões de crédito europeus realizadas em setembro de 2013, com informações anonimizadas via PCA.
 
+⚠️ A pasta `data/` está no `.gitignore` e **não será versionada no Git** para preservar a integridade e o tamanho do repositório.
+
 ---
 
 ## 🚀 Como Começar
 
 1. Clone o repositório:
-   ```bash
+
+```bash
    git clone https://github.com/SEU_USUARIO/projeto-fraude-ml.git
    cd projeto-fraude-ml
+```
+
+2. Crie um ambiente virtual e ative:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+source venv/Scripts/activate  # Windows (Git Bash)
+```
+
+3. Instale as dependências:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Inicie o Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
+
+Projeto acadêmico desenvolvido para a disciplina **Engenharia de Machine Learning**
+
+Faculdade de Tecnologia e Inovação Senac DF
+
+Tecnologia em Ciência de Dados (3º Semestre - Noturno)
+
+Brasília, DF, BR, 1º Semestre 2025.
+
+---
