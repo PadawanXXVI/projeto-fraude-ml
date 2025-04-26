@@ -80,6 +80,14 @@ jupyter notebook
 
 ---
 
+---
+
+## 📚 Documentação Completa
+
+Para detalhes sobre o desenvolvimento do projeto, entregas e análises, acesse nossa [Wiki Oficial](https://github.com/PadawanXXVI/projeto-fraude-ml/wiki).
+
+---
+
 Projeto acadêmico desenvolvido para a disciplina **Engenharia de Machine Learning**
 
 Faculdade de Tecnologia e Inovação Senac DF
