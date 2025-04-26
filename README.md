@@ -80,8 +80,6 @@ jupyter notebook
 
 ---
 
----
-
 ## 📚 Documentação Completa
 
 Para detalhes sobre o desenvolvimento do projeto, entregas e análises, acesse nossa [Wiki Oficial](https://github.com/PadawanXXVI/projeto-fraude-ml/wiki).
